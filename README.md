@@ -1,4 +1,4 @@
-# Well,Well,Well...
+# Hey!
 
 Name is Nick,and I'm a young and enthusiastic software engineer on a mission to make a positive impact through technology. With a keen interest in innovation and problem solving, I'm always ready to take on exciting challenges and dive into new technologies.
 
